@@ -3,15 +3,13 @@
 
 ![ETHCC](assets/ETHCC.png)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08010B&background=6F52A000&random=false&width=435&lines=Making+Product+%26+Infra+Stuff+in+Web3)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=010506&random=false&width=435&lines=Product+%26+Community+Stuff+in+Web3)](https://git.io/typing-svg)
 
 🧑🏻‍🎓 **Manager-Engineer** graduated from a Master in Engineering Information Systems at **Institut Mines Telecom**
 
 🏆 Active **builder** during international **Web3 hackathons** _(5x finalist, +30 prizes won, +60K in cash prize)_
 
 🌏 **H.E.R. DAO Global** Steward & **H.E.R. DAO France** Governor
-
-🪼 Co-founder & COO of **Dusa Protocol**, the first fully on-chain AMM based on Massa
 
 🔑 Ex-**Ledger**
 
