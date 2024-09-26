@@ -11,7 +11,7 @@
 
 🌏 **H.E.R. DAO Global** Steward & **H.E.R. DAO France** Governor
 
-🌴 **Starknet.ID** Team Member
+🇫🇷 **Starknet France** Lead
 
 🔑 Ex-**Ledger**
 
