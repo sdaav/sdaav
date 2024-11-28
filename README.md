@@ -7,11 +7,13 @@
 
 🧑🏻‍🎓 **Manager-Engineer** graduated from a Master in Engineering Information Systems at **Institut Mines-Telecom**
 
-🏆 Building cool stuff during international **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
+🏆 Building cool stuff in **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
 
-🇫🇷 **Starknet France** Lead & **Only Dust** Ambassador
+🇫🇷 **Starknet France** Lead
 
-🌏 Prev **H.E.R. DAO Global Lead**
+👩‍💻 **Only Dust** Ambassador
+
+🌏 Prev **H.E.R. DAO** Global Lead
 
 🔑 Prev **Ledger** & **Starknet ID**
 
