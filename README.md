@@ -3,23 +3,22 @@
 
 ![ETHCC](assets/ETHCC.png)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=010506&random=false&width=435&lines=Product+%26+Community+Stuff+in+Web3)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Building+developer+communities)](https://git.io/typing-svg)
 
 🧑🏻‍🎓 **Manager-Engineer** graduated from a Master in Engineering Information Systems at **Institut Mines-Telecom**
 
-🏆 Active **builder** during international **Web3 hackathons** _(5x finalist, +30 prizes won, +60K in cash prize)_
-
-🌏 **H.E.R. DAO Global** Steward & **H.E.R. DAO France** Governor
+🏆 Building cool stuff during international **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
 
 🇫🇷 **Starknet France** Lead
 
-🔑 Ex-**Ledger**
+🌏 Prev **H.E.R. DAO Global Lead**
+
+🔑 Prev **Ledger** & **Starknet ID**
 
 ------
 
 <p align="left">
 <a href="https://www.her-dao.xyz/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/H.E.R.%20DAO%20Global%20Logo.png" width="150" height="60" alt="C" /></a>
-<a href="https://www.talentprotocol.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Talent%20Protocol%20Logo.png" width="60" height="60" alt="Java" /></a>
 <a href="https://www.encode.club/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Encode%20Club%20Logo.png" width="60" height="60" alt="C++" /></a>
 <a href="https://www.ethereum-france.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Ethereum%20France%20Logo.jpeg" width="60" height="60" alt="Java" /></a>
 <a href="https://kryptosphere.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Kryptosphere%20Logo.gif" width="60" height="60" alt="Java" /></a>
