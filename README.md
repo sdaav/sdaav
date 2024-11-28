@@ -9,7 +9,7 @@
 
 🏆 Building cool stuff during international **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
 
-🇫🇷 **Starknet France** Lead
+🇫🇷 **Starknet France** Lead & **Only Dust** Ambassador
 
 🌏 Prev **H.E.R. DAO Global Lead**
 
