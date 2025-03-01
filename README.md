@@ -11,7 +11,7 @@
 
 🇫🇷 **Starknet France** Lead
 
-👩‍💻 **Only Dust** Ambassador
+👩‍💻 **Only Dust** Developer Relations
 
 🌏 Prev **H.E.R. DAO** Global Lead
 
