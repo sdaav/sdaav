@@ -7,6 +7,8 @@
 
 🧑🏻‍🎓 **Manager-Engineer** graduated from a Master in Engineering Information Systems at **Institut Mines-Telecom**
 
+🎒 Founder of **Dev3pack** - the first Web3 developer fellowship for women+ and students coming from Web2 development
+
 🏆 Building cool stuff in **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
 
 👩‍💻 **Only Dust** Developer Relations
