@@ -20,6 +20,8 @@
 ------
 
 <p align="left">
+<a href="https://dev3pack.xyz/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Logo transparent dev3pack.png" width="70" height="70" alt="C" />
+</a>
 <a href="https://www.her-dao.xyz/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/H.E.R.%20DAO%20Global%20Logo.png" width="150" height="60" alt="C" /></a>
 <a href="https://www.encode.club/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Encode%20Club%20Logo.png" width="60" height="60" alt="C++" /></a>
 <a href="https://www.ethereum-france.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sdaav/sdaav/blob/main/assets/Ethereum%20France%20Logo.jpeg" width="60" height="60" alt="Java" /></a>
