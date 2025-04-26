@@ -7,7 +7,7 @@
 
 🧑🏻‍🎓 **Manager-Engineer** graduated from a Master in Engineering Information Systems at **Institut Mines-Telecom**
 
-🎒 Founder of **Dev3pack** - the first Web3 developer fellowship for women+ and students coming from Web2 development
+🎒 Founder of **Dev3pack** - the first Web3 developer fellowship for women+ and students developers coming from Web2
 
 🏆 Building cool stuff in **Web3 hackathons** _(5x finalist, +35 prizes won, +75K in cash prize)_
 
@@ -15,7 +15,7 @@
 
 🌏 Prev **H.E.R. DAO** Global Lead
 
-🔑 Prev **Ledger**, **Starknet ID** **Starknet France** Lead
+🔑 Prev **Ledger**, **Starknet ID**, **Starknet France** Lead
 
 ------
 
